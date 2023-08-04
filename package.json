@@ -1,5 +1,13 @@
+
+
 {
-  "dependencies": {
-    "vue-router": "^4.2.4"
+  "name": "vue3-contact-book",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   }
+ 
 }
+
