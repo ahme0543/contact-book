@@ -1,4 +1,8 @@
-
+{
+  "dependencies": {
+    "vue-router": "^4.2.4"
+  }
+}
 
 {
   "name": "vue3-contact-book",
@@ -8,6 +12,6 @@
     "build": "vite build",
     "serve": "vite preview"
   }
- 
+  
 }
 
