@@ -34,7 +34,7 @@ export default {
     },
   },
   mounted() {
-    // Load contacts from Local Storage
+    
     const savedContacts = JSON.parse(localStorage.getItem('contacts') || '[]');
     this.contacts = savedContacts;
   },
